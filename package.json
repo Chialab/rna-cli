@@ -94,7 +94,7 @@
     "mocha": "^7.1.2",
     "node-fetch": "^2.6.0",
     "polyfill-library": "^3.93.0",
-    "postcss": "^7.0.30",
+    "postcss": "^8.2.10",
     "postcss-all-unset": "^1.1.0",
     "postcss-custom-properties": "^9.1.1",
     "postcss-focus-visible": "^4.0.0",
